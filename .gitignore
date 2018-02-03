@@ -1,0 +1,5 @@
+/certs/
+/html/
+/conf.d/
+/vhosts.d/
+/.env
